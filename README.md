@@ -1,6 +1,6 @@
 # TailwindNavbar
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0. Be sure to run `npm install` after cloning.
 
 ## Development server
 
@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+This repository is based on [Creating a Navbar with Angular 17 and Tailwind CSS](https://blog.javascripttoday.com/blog/creating-a-navbar-with-angular-and-tailwind-css/) by Sarthak Pokharel.
